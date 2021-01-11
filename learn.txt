@@ -1,0 +1,4 @@
+命令：sort demo.txt | uniq
+用法：
+    sort : 排序
+    uniq : 删除相邻重复行
